@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+   
+}
+.card-subtitle{
+    font-size: 2.3rem;
+    background: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+    -webkit-text-fill-color: transparent; 
+    /* -webkit-background-clip: text;  */
+}
